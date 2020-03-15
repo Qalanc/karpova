@@ -1,0 +1,32 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: radial-gradient(#4DEB6D, green);
+}
+
+div {
+	background-color: white;
+}
+
+header {
+	border-radius: 15px;
+	background: radial-gradient(#483E8C, #3B3C59);
+	text-align: center;
+	padding: 15% 0;
+	color: white;
+}
+
+.head {
+	font-size: 36pt;
+}
+
+section {
+	font-style: italic;
+	padding: 0 0 3% 3%;
+}
+
+h4 {
+	font-weight: bold;
+	padding: 3.5% 0;
+	color: red;
+	text-align: center;
+}
