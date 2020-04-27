@@ -68,3 +68,24 @@ h4 {
 .nishe {
 	margin-top: 60px;
 }
+
+.indent-kr {
+	text-indent: 1.5em; 
+    text-align: justify;
+    font-size: 14pt; 
+}
+
+#kr-lit {
+	float: right;
+	clear: both;
+}
+
+.ukr-kr {
+    text-align: justify;
+    font-size: 14pt; 
+}
+
+.kr-var {
+	font-size: 14pt;
+	line-height: 40px;
+}
